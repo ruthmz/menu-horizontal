@@ -1,0 +1,28 @@
+body{
+    font-family: sans-serif;
+}
+
+nav {
+    /* outline: 1px solid yellow; */
+}
+
+ul{
+    /* outline: 1px solid blue; */
+    list-style: none;
+    margin: 0;
+    padding:0;
+    background: #2e2e2a;
+}
+
+li{
+    /* outline: 1px solid red; */
+    width: 100px;
+    display: inline-block
+}
+
+a{
+    /* outline: 1px solid green; */
+    text-decoration: none;
+    color:#fff;
+    display: block;    
+}
