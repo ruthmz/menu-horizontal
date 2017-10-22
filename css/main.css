@@ -9,17 +9,19 @@ nav {
 ul{
     /* outline: 1px solid blue; */
     list-style: none;
+    padding:0;    
     margin: 0;
-    padding:0;
     background: #2e2e2a;
     line-height: 40px;
+    overflow: auto;
 }
 
 li{
     /* outline: 1px solid red; */
     width: 100px;
-    display: inline-block;
+    /* display: inline-block; */
     text-align: center;
+    float: left;
 }
 
 a{
