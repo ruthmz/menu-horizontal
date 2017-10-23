@@ -9,7 +9,7 @@ nav {
 ul{
     /* outline: 1px solid blue; */
     /* Usamos  list-style para quitarle las viñetas y a padding y margin le ponemos el valor de 0 para quitarle el espacio a la izquierda */
-    /* usamos line height para dejarle un espacio arriba entre líneas */
+    /* usamos line height para dejarle un espacio entre líneas */
     /* usamos overflow para indicar que conserve su propeiedad de bloque */
     list-style: none;
     padding:0;    
